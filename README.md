@@ -1,2 +1,6 @@
 # Listtodo
-for project in yandex
+When the program starts, we are greeted by a widget with the same name "To-do-list", on which today's date is conveniently located, on the sides of which there are arrows to switch it (To the right - the next, to the left — the previous date). To the right under them are two buttons "Create a task" and "Delete a task", it is not difficult to guess what they are doing. When you click on the "Create a task" button, a widget pops up that prompts the user to enter a task, and after clicking on the "Done" button, save it to the database created by the application. When you click on the "Delete task" button, a similar widget pops up, but only there you already need to enter the task number, and then when you click on the "Done" button, it will be deleted from the database. There is a "settings" button on the main widget, when clicked, the widget pops up, but the functions on it are not ready, so I don't see the point in describing them. Also on the main widget there is a field in which a table with created tasks is displayed.
+
+there is an exe file in the project, open the dist file and there will be a file in it listtodo.exe, which will launch the project.
+
+you can run the project differently by running the file listtodo.py
